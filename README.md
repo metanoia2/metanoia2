@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> I'm Harshada Deore</h1>
-<h2 align="center">A passionate frontend developer, currently pursuing my bachelor's degree majoring in computer science from Maharashtra Institute of Art, Design and Technology,Pune .<br>I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.</h2>
+<h2 align="center">A passionate frontend developer, currently pursuing my bachelor's degree majoring in computer science from MIT Art, Design and Technology,Pune .<br>I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.</h2>
 
 - 🌱 I’m currently learning **Cloud Computing**
 
